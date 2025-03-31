@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     srand(time(0));
-    cout<<"cout";
+    cout<<"fehho";
   
  return 0;
 }
